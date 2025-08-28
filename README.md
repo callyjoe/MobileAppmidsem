@@ -1,6 +1,7 @@
 # MobileAppmidsem
 Midsem For Mobile App
 This repository contains solutions to the INFT 356: Mobile Application Development Practical Questions.
+It contains a zip file for download as well as the actual files containing the flutter codes for each question
 Features
 
 # Question 1: Student Information Manager App
